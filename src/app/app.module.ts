@@ -10,6 +10,7 @@ import { New4Component } from './new4/new4.component';
 import { New5Component } from './new5/new5.component';
 import { New6Component } from './new6/new6.component';
 import { New7Component } from './new7/new7.component';
+import { New8Component } from './new8/new8.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { New7Component } from './new7/new7.component';
     New4Component,
     New5Component,
     New6Component,
-    New7Component
+    New7Component,
+    New8Component
   ],
   imports: [
     BrowserModule,
