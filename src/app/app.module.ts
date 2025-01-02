@@ -15,6 +15,7 @@ import { New9Component } from './new9/new9.component';
 import { New10Component } from './new10/new10.component';
 import { New11Component } from './new11/new11.component';
 import { New12Component } from './new12/new12.component';
+import { New13Component } from './new13/new13.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { New12Component } from './new12/new12.component';
     New9Component,
     New10Component,
     New11Component,
-    New12Component
+    New12Component,
+    New13Component
   ],
   imports: [
     BrowserModule,
