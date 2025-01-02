@@ -11,6 +11,7 @@ import { New5Component } from './new5/new5.component';
 import { New6Component } from './new6/new6.component';
 import { New7Component } from './new7/new7.component';
 import { New8Component } from './new8/new8.component';
+import { New9Component } from './new9/new9.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { New8Component } from './new8/new8.component';
     New5Component,
     New6Component,
     New7Component,
-    New8Component
+    New8Component,
+    New9Component
   ],
   imports: [
     BrowserModule,
